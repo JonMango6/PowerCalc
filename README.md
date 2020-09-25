@@ -1,6 +1,8 @@
 # PowerCalc
 A calculator that can help determine your estimated one rep max on any compound lift.
 
+Download the file "PowerCalc.exe" to use the calculator.
+
 To use the calculator: 
 1. Enter the lift measured in pounds in the first box 
 2. Enter the number of repetitions performed in the second box.
